@@ -1,0 +1,5 @@
+Credentials cache: API:F5F6B966-5196-4DBB-A6A7-462B008085FA
+        Principal: nbenhado@42.FR
+
+  Issued                Expires             Flags    Principal
+Jun 28 12:19:59 2021  Jul  5 12:19:49 2021  FPIA   krbtgt/42.FR@42.FR
